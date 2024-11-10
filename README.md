@@ -2,7 +2,7 @@
 Portfólio de mapas
 
 <details>
-  <summary>## Mapas Hidrológicos</summary>
+  <summary>Mapas Hidrológicos</summary>
   
   Aqui estão os mapas hidrológicos:
   - [Mapa de Bacias Hidrográficas](link_para_o_mapa)
@@ -12,7 +12,7 @@ Portfólio de mapas
 </details>
 
 <details>
-  <summary>## Mapas de Uso e Ocupação</summary>
+  <summary> Mapas de Uso e Ocupação</summary>
   
   Aqui estão os mapas de uso e ocupação:
   - [Mapa de Áreas Urbanas](link_para_o_mapa)
@@ -22,7 +22,7 @@ Portfólio de mapas
 </details>
 
 <details>
-  <summary>## Mapas de Rotas</summary>
+  <summary>Mapas de Rotas</summary>
   
   Aqui estão os mapas de rotas:
   - [Mapa de Ciclovias](link_para_o_mapa)
@@ -32,7 +32,7 @@ Portfólio de mapas
 </details>
 
 <details>
-  <summary>## Mapas de Localização</summary>
+  <summary>Mapas de Localização</summary>
   
   Aqui estão os mapas de localização:
   - [Mapa de Pontos Turísticos](link_para_o_mapa)
@@ -42,7 +42,7 @@ Portfólio de mapas
 </details>
 
 <details>
-  <summary>## Mapas de Dados</summary>
+  <summary>Mapas de Dados</summary>
   
   Aqui estão os mapas de dados:
   - [Mapa de População](link_para_o_mapa)
