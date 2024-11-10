@@ -12,7 +12,7 @@ Portfólio de mapas
   - [Mapa de Recursos Hídricos](link_para_o_mapa)
 
 
-  - [Mapa de Precipitação](https://emanuel2806pb.github.io/Mapas/M-precipitacao)
+  - [Mapa de Precipitação](README.md)
 
 </details>
 
