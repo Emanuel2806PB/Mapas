@@ -4,15 +4,8 @@ Portfólio de mapas
 <details>
   <summary>Mapas Hidrológicos</summary>
   
-  Aqui estão os mapas hidrológicos:
-  - [Mapa de Bacias Hidrográficas](/bacias-hidrograficas)
-
-
-
-  - [Mapa de Recursos Hídricos](link_para_o_mapa)
-
-
-  - [Mapa de Precipitação](link_para_o_mapa)
+  - [Mapa de Precipitação Bacia Hidrográfica do Rio Mamanguape]
+(https://github.com/Emanuel2806PB/Mapas/blob/M-precipitacao/Rede%20Pluviom%C3%A9trica%20-%2020%20ANOS-interpolados-chao.pdf)
 
 </details>
 
